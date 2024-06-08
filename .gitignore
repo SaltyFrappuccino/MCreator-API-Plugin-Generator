@@ -1,0 +1,10 @@
+.idea
+.vscode
+.fleet
+venv
+sorceryfight.zip
+dist/*
+dist
+build
+build/*
+__pycache__
