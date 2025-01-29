@@ -129,4 +129,4 @@ Pull requests welcome! For major changes, please open an issue first to discuss 
 ---
 
 ## License 📜
-MIT © [SaltyFrappuccino](https://github.com/SaltyFrappuccino)
+[MIT](LICENSE) © [SaltyFrappuccino](https://github.com/SaltyFrappuccino)
