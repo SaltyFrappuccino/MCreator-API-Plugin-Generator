@@ -22,6 +22,17 @@ class ProjectGUI:
     """
 
     def __init__(self, root):
+        self.url = None
+        self.mc_version = None
+        self.supported_versions = None
+        self.weight = None
+        self.author = None
+        self.description = None
+        self.version = None
+        self.project_name = None
+        self.project_id = None
+        self.mod_id = None
+        self.generate_button = None
         self.root = root
         self.root.title("MCreator API Plugin Generator")
         self.create_widgets()
